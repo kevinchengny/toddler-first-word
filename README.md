@@ -17,12 +17,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -73,19 +73,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The App "Toddler's First Word" was developed using OpenCV to teach toddlers new words by detecting handheld objects Realtime and announcing those words to the toddlers. 
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Tested out OpenCV's integration and my current models
+* Created as a my first OpenCV project
+* Babies are Energy Monsters. They need Distractions. What better way to get some alone time than to use an App that can teach and fascinate babies at the same time! :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Feel Free to help Commit to this Humble Project where we help families all over the world calm those babies down with the power of EDUCATION!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+I plan to use TensorFlow to optimize the model a bit better.
 * [Python](https://www.python.org/)
 * [NumPy](https://numpy.org/)
 * [OpenCV](https://opencv.org/)
@@ -101,35 +101,33 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* opencv - recommended to use a virtual environment
 ```sh
-npm install npm@latest -g
+pip install opencv-python
 ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/kevinchengny/toddler-first-word.git
 ```
-3. Install NPM packages
+2. Install OpenCV packages
 ```sh
-npm install
+pip install opencv-python
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+3. Engage & Give it to the Toddlers!
+
+
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The App works best within 1-2 feet away from the camera. It can auto-detect multiple objects at the same time and detects objects from coco's database (Take a look at coco.names for more words). The program is best ran on a Personal Desktop with a dedicated GPU, however, I plan to optimize the model more and port it over to IOS first!
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://opencv.org/)_
 
 
 
@@ -163,7 +161,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kevinchengny](https://twitter.com/kevinchengny) - email@example.com
+Name - [@kevinchengny](https://twitter.com/kevinchengny)
 
 Project Link: [https://github.com/kevinchengny/toddler-first-word](https://github.com/kevinchengny/toddler-first-word)
 
@@ -172,16 +170,8 @@ Project Link: [https://github.com/kevinchengny/toddler-first-word](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Murtaza](https://www.youtube.com/watch?v=HXDD7-EnGBY)
+
 
 
 
