@@ -178,15 +178,15 @@ Project Link: [https://github.com/kevinchengny/toddler-first-word](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kevinchengny/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/issues/kevinchengny/toddler-first-word
 [contributors-url]: https://github.com/kevinchengny/toddler-first-word/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kevinchengny/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/kevinchengny/toddler-first-word
 [forks-url]: https://github.com/kevinchengny/toddler-first-word/network/members
-[stars-shield]: https://img.shields.io/github/stars/kevinchengny/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/kevinchengny/toddler-first-word
 [stars-url]: https://github.com/kevinchengny/toddler-first-word/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kevinchengny/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/kevinchengny/toddler-first-word/issues
-[license-shield]: https://img.shields.io/github/license/kevinchengny/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/kevinchengny/toddler-first-word
 [license-url]: https://github.com/kevinchengny/toddler-first-word/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [product-screenshot]: images/sample.png
