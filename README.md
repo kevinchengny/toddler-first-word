@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kevinchengny/toddler-first-word">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo-baby.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Toddler's First Word</h3>
@@ -201,4 +201,4 @@ Project Link: [https://github.com/kevinchengny/toddler-first-word](https://githu
 [license-url]: https://github.com/kevinchengny/toddler-first-word/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/sample.png
