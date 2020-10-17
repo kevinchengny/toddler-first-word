@@ -184,9 +184,8 @@ Project Link: [https://github.com/kevinchengny/toddler-first-word](https://githu
 [forks-url]: https://github.com/kevinchengny/toddler-first-word/network/members
 [stars-shield]: https://img.shields.io/github/stars/kevinchengny/toddler-first-word
 [stars-url]: https://github.com/kevinchengny/toddler-first-word/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kevinchengny/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/kevinchengny/
 [issues-url]: https://github.com/kevinchengny/toddler-first-word/issues
 [license-shield]: https://img.shields.io/github/license/kevinchengny/toddler-first-word
 [license-url]: https://github.com/kevinchengny/toddler-first-word/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [product-screenshot]: images/sample.png
